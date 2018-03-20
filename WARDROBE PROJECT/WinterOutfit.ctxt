@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=anyShirt\ anyPants\ anyShoes\ anyJacket
+comment0.target=WinterOutfit(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ WinterOutfit\r\n
+comment1.params=anyJacket
+comment1.target=void\ setJacket(java.lang.String)
+comment1.text=\r\n\ this\ method\ lets\ you\ set\ the\ jacket\r\n
+comment2.params=
+comment2.target=java.lang.String\ getJacket()
+comment2.text=\r\n\ this\ method\ lets\ you\ return\ the\ jacket\r\n
+comment3.params=
+comment3.target=void\ userWinterSet()
+comment3.text=\r\n\ this\ method\ allows\ the\ user\ to\ add\ winter\ outfits\ to\ the\ set\r\n
+comment4.params=
+comment4.target=void\ printInfo()
+comment4.text=\r\n\ this\ method\ prints\ the\ winter\ outfit\ info\r\n
+comment5.params=
+comment5.target=void\ printOutfitSet()
+comment5.text=\r\n\ this\ method\ prints\ the\ winter\ outfits\ stored\ in\ the\ set\r\n
+comment6.params=
+comment6.target=void\ clearOutfits()
+comment6.text=\r\n\ this\ method\ clears\ the\ outfits\ in\ the\ set\r\n
+numComments=7

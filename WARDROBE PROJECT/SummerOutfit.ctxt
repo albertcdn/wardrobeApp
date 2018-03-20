@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=anyShirt\ anyPants\ anyShoes\ anyHat
+comment0.target=SummerOutfit(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SummerOutfit\r\n
+comment1.params=anyHat
+comment1.target=void\ setHat(java.lang.String)
+comment1.text=\r\n\ this\ method\ lets\ you\ set\ the\ hat\r\n
+comment2.params=anyHat
+comment2.target=java.lang.String\ getHat(java.lang.String)
+comment2.text=\r\n\ this\ method\ returns\ the\ hat\r\n
+comment3.params=
+comment3.target=void\ userSummerSet()
+comment3.text=\r\n\ this\ method\ allows\ you\ to\ add\ summer\ outfits\ to\ the\ set\r\n
+comment4.params=
+comment4.target=void\ printInfo()
+comment4.text=\r\n\ this\ method\ prints\ the\ summer\ outfit\ info\r\n
+comment5.params=
+comment5.target=void\ printOutfitSet()
+comment5.text=\r\n\ this\ method\ prints\ the\ summer\ outfits\ stored\ in\ the\ set\r\n
+comment6.params=
+comment6.target=void\ clearOutfits()
+comment6.text=\r\n\ this\ method\ clears\ the\ outfits\ in\ the\ set\r\n
+numComments=7
